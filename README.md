@@ -5,9 +5,10 @@
 
 ---
 
-## ✅ Active GitHub Account / Aktif GitHub Hesabı
+## 🔗 ACTIVE GITHUB ACCOUNT  
+## 🔗 AKTİF GITHUB HESABI
 
-👉 **https://github.com/LotusASec**
+# 👉 **https://github.com/LotusASec**
 
 ---
 
@@ -17,7 +18,7 @@ Please visit my active GitHub account above for:
 - Updated repositories  
 - My latest work in cybersecurity and OT security  
 
-This account remains only as a reference for my previous username.
+This account is kept only as a reference for my previous username.
 
 ---
 
