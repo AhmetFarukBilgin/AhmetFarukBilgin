@@ -1,16 +1,35 @@
-## Hi there 👋
+# GitHub Username Update / GitHub Kullanıcı Adı Güncellemesi
 
-<!--
-**AhmetFarukBilgin/AhmetFarukBilgin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚠️ **This GitHub account is no longer actively used.**  
+⚠️ **Bu GitHub hesabı artık aktif olarak kullanılmamaktadır.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✅ Active GitHub Account / Aktif GitHub Hesabı
+
+👉 **https://github.com/LotusASec**
+
+---
+
+### EN
+Please visit my active GitHub account above for:
+- Current and ongoing projects  
+- Updated repositories  
+- My latest work in cybersecurity and OT security  
+
+This account remains only as a reference for my previous username.
+
+---
+
+### TR
+Güncel çalışmalarım için lütfen yukarıdaki aktif GitHub hesabımı ziyaret edin:
+- Güncel ve devam eden projeler  
+- Güncellenmiş repolar  
+- Siber güvenlik ve OT security alanındaki çalışmalarım  
+
+Bu hesap yalnızca önceki kullanıcı adım için referans olarak tutulmaktadır.
+
+---
+
+Thank you for your interest.  
+İlginiz için teşekkür ederim.
